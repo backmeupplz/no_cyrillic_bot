@@ -1,0 +1,14 @@
+{
+  "name": "no_cyrillic_bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that deletes text with Cyrillic characters",
+  "main": "index.js",
+  "repository": "https://github.com/backmeupplz/no_cyrillic_bot",
+  "author": "Nikita Kolmogorov <backmeupplz@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^7.0.0",
+    "telegraf": "^3.28.0"
+  }
+}
